@@ -1,6 +1,7 @@
-# 这是<font color=red>雷环瑞</font>的个人主页 👋
+# 这是雷环瑞的个人主页 👋
 ---
-🐶you like me 
+打算做一些收集吧，收集什么虽然也没想好</br>
+但是
 <!--
 **ringalei/ringalei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
